@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://fwdskillzone.com/</loc>
-   </url>
-   <url>
-      <loc>https://fwdskillzone.com/power-electronics</loc>
-   </url>
   <url>
-      <loc>https://fwdskillzone.com/Book</loc>
-   </url>
-   <url>
-      <loc>https://fwdskillzone.com/flight-sim-hardware</loc>
-   </url>
-   <url>
-      <loc>https://fwdskillzone.com/about-me</loc>
-   </url>
+    <loc>https://fwdskillzone.com/</loc>
+  </url>
+  <url>
+    <loc>https://fwdskillzone.com/power-electronics</loc>
+  </url>
+  <url>
+    <loc>https://fwdskillzone.com/Book</loc>
+  </url>
+  <url>
+    <loc>https://fwdskillzone.com/flight-sim-hardware</loc>
+  </url>
+  <url>
+    <loc>https://fwdskillzone.com/about-me</loc>
+  </url>
 </urlset>
